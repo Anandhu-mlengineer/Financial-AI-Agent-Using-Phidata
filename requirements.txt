@@ -1,8 +1,10 @@
 phidata
 python-dotenv
 yfinance
-packageing
+packaging
 duckduckgo-search
 fastapi
 uvicorn
 groq
+openai 
+matplotlib mplfinance
